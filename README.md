@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Building practical tools that solve actual problems. Based in Nairobi, Kenya.
+
+What I Build
+
+1.Data pipelines and automation scripts in Python.
+
+2.Machine learning tools for fitness and performance tracking
+
+3.Browser-based tools with JavaScript and the Fetch API
+Current Projects
+
+*smp-tracker: Daily performance tracker with ML-powered coaching
+
+*api-dashboard: Multi-endpoint data dashboard with pandas reports
+
+*browser-coach: Client-side AI coaching tool in JavaScript
+
